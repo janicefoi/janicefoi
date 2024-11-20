@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👩‍💻 **Software Engineer | Full Stack Developer | AI Enthusiast**
 
-<!--
-**janicefoi/janicefoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Janice Wambui, a software engineer passionate about crafting efficient and scalable solutions. With expertise in multiple programming languages and frameworks, I build web, mobile, and desktop applications that solve real-world problems.
 
-Here are some ideas to get you started:
+🌟 **Tech Stack**:
+- Programming: Python, Java, C++, C, C#, JavaScript, PHP, R, Swift
+- Web: HTML5, CSS3, React, Node.js
+- Database: MySQL, MongoDB, PostgreSQL, NoSQL
+- Mobile: Flutter, Swift
+- Tools: Git, Docker, PowerShell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Interests**:
+- Artificial Intelligence
+- DevOps practices
+- Real-time data analysis
+- UI/UX design
+
+📫 **Contact Me**:
+- Email: janicejuniour@gmail.com
+- [Portfolio](https://github.com/janicewambui)
