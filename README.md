@@ -4,7 +4,7 @@ Hello! I'm Janice Wambui, a software engineer passionate about crafting efficien
 
 🌟 **Tech Stack**:
 - Programming: Python, Java, C++, C, C#, JavaScript, PHP, R, Swift
-- Web: HTML5, CSS3, React, Node.js
+- Web: HTML5, CSS3, React, Node.js, Django
 - Database: MySQL, MongoDB, PostgreSQL, NoSQL
 - Mobile: Flutter, Swift
 - Tools: Git, Docker, PowerShell
