@@ -66,9 +66,9 @@ Hello! I'm **Janice Wambui**, a passionate **Software Engineer** dedicated to bu
 ## 📫 **Contact Me**
 <p align="left">
   📧 Email: janicejuniour@gmail.com  
-  🌐 [Portfolio](https://github.com/janicewambui)  
-  💼 [LinkedIn](https://www.linkedin.com/in/janice-wambui-softwareenginer/)  
-  🐦 [Twitter](https://twitter.com/janicefoi)  
+  🌐 [Portfolio](https://github.com/janicewambui)]
+  💼 [LinkedIn](https://www.linkedin.com/in/janice-wambui-softwareenginer/)]
+  🐦 [Twitter](https://twitter.com/janicefoi)]
 </p>
 
 ---
