@@ -3,7 +3,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/janicefoi?label=Followers&style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/janicefoi?affiliations=OWNER&style=social)  
 
-Hello! I'm **Janice Wambui**, a passionate **Software Engineer** dedicated to building efficient and scalable applications. I specialize in **web, mobile, and desktop** development, focusing on solving real-world problems with **AI and automation**.
+Hello! I'm **Janice Ngugi**, a passionate **Software Engineer** dedicated to building efficient and scalable applications. I specialize in **web, mobile, and desktop** development, focusing on solving real-world problems with **AI and automation**.
 
 ---
 
